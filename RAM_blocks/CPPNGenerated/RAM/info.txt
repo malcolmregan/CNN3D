@@ -1,0 +1,4 @@
+data was collected by running RAM_CPPN until a fitness of 0.987 or greater was achieved, saving the object with this fitness, changing the class and starting the CPPN over with a blank network. 
+
+
+0.987 was the fitness goal because the CPPN would not get beyond .98 for class 6 examples (3000 generations with a population of 100) most of the other classes evolved very quickly (between 1 and 20 generations)
